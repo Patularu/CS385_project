@@ -1,4 +1,4 @@
-availablePackages :{
+{"availablePackages" :[
 {
 id: 1,
 location: "Athlone",
@@ -573,4 +573,5 @@ theme: " Paintball",
 pricePerPerson: 100,
 kids: "no", includes: "Accomodation, Activity, Transport", maxPersons:60
 }
+  ]
 }
