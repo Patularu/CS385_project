@@ -281,20 +281,6 @@
 },
 {
 "id": 41,
-"location": "Kildare",
-"theme": " Archery",
-"pricePerPerson": 30,
-"kids": "Yes", "includes": "Meal, Activity, Transport", "maxPersons":80
-},
-{
-"id": 42,
-"location": "Cashel",
-"theme": " Archery",
-"pricePerPerson": 30,
-"kids": "Yes", "includes": "Meal , Activity, Transport, Face Painting", "maxPersons":100
-},
-{
-"id": 41,
 "location": "Drogheda",
 "theme": " Archery",
 "pricePerPerson": 35,
